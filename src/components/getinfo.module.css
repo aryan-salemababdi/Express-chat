@@ -1,0 +1,12 @@
+.container{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    align-items: center;
+    text-align: center;
+}
+.getinfo{
+    text-align: center;
+    margin: 40px 0px;
+    font-size: 1rem;
+}

@@ -1,0 +1,25 @@
+.footerchatroom{
+    background: rgb(154, 113, 230);
+    padding: 20px;
+    border-radius: 0px 0px 4px 4px;
+}
+.inputchat{
+    background: #fff;
+    width: 90%;
+    border-radius: 10px;
+    padding: 0px 5px;
+    direction: rtl;
+}
+.button{
+    margin: 0px 10px;
+    color: #fff;
+    direction: rtl;
+}
+@media (max-width:760px) {
+    .inputchat{
+        width: 70%;
+    }
+    .button{
+        margin: 0;
+    }
+}

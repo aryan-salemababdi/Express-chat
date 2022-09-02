@@ -1,0 +1,9 @@
+.header{
+    background: rgb(154, 113, 230);
+    border-radius: 5px 5px 0px 0px;
+}
+.header h2{
+    padding: 10px;
+    text-align: center;
+    color: #fff;
+}
