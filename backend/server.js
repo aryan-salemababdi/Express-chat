@@ -2,7 +2,7 @@ const express = require("express");
 const io = require("socket.io");
 const app = express();
 app.get("/" , (req,res) =>{
-    res.send(" salam i'm aryan ");
+    res.send(" This Is Test ");
 });
 const server = app.listen(3010,err =>{
     console.log("app listen to port 3010");
